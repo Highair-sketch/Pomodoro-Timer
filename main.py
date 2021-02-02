@@ -99,7 +99,8 @@ start_button.grid(column=2, row=2)
 check_marks = Label(bg=YELLOW, fg=GREEN, font=(FONT_NAME, 25, 'bold'))
 check_marks.grid(column=1, row=3)
 
-# ✓
 
 
 window.mainloop()
+
+#date = 02/02/2021
